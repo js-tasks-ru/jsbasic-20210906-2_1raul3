@@ -21,33 +21,6 @@ function isValid(name) {
     else {
   return true;
   }
-
-  // if (name == null) {
-  //   return false
-  // }
-  // nameTest = name
-  // if (nameTest == "")  {
-  //   return false;
-  // } else {
-  //   return true;
-  // }
-
-  // if (!name) {
-  //   return false
-  // }
-  // if (name !== " ") {
-  //   return true
-  // } 
-
-  // if (name == null || name.lenght < 4) {
-  //   return false
-  // } else if (name == ""){
-  //   return false
-  // }
-  //   else {
-  //   return true
-  // }
-
 }
 
 
