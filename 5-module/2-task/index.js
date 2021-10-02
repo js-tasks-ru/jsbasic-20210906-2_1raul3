@@ -3,7 +3,7 @@ function toggleText() {
   let button = document.querySelector('.toggle-text-button');
   let text = document.querySelector('#text');
   let onclick = () => {
-    if (text.hidden == true) {
+    if (text.hidden) {
       text.hidden = false;
     }
     else {
